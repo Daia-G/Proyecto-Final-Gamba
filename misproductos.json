@@ -1,0 +1,33 @@
+
+
+
+{
+    "productos": [
+      {
+        "nombre": "Bolso",
+        "precio": 30000,
+        "stock": 18
+      },
+      {
+        "nombre": "Bolso mochila",
+        "precio": 35000,
+        "stock": 5
+      },
+      {
+        "nombre": "Mochila urbana",
+        "precio": 25000,
+        "stock": 15
+      },
+      {
+        "nombre": "Cartera",
+        "precio": 18000,
+        "stock": 11
+      },
+      {
+        "nombre": "Riñonera",
+        "precio": 20000,
+        "stock": 0
+      }
+    ]
+  }
+  

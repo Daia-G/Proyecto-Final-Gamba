@@ -1,0 +1,28 @@
+
+#botonNombre {
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #777;
+    text-align: center;
+}
+#botonBuscar {
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #777;
+    text-align: center;
+        
+}
+body{
+    background-color: #90caf9;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Glass Antiqua', 'sans-serif'; 
+}
+.title {
+    text-align: justify;
+    font-family: 'Barlow Condensed', 'sans-serif';
+}
